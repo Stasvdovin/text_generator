@@ -14,7 +14,7 @@ enter_text = st.text_input("Enter the text", value="")
 
 
 def text_load(enter_text):
-    return text_generator(enter_text, max_length=100, num_return_sequences=1)
+    return text_generator(enter_text, max_length=50, num_return_sequences=1)
 
 
 if st.button("Output"):
