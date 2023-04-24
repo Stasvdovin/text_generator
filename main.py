@@ -2,7 +2,7 @@ from transformers import pipeline
 import streamlit as st
 
 
-@st.cache_data
+@st.cache_resource
 def load():
     return pipeline("text-generation", model="openai-gpt")
 
