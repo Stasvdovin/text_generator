@@ -12,7 +12,7 @@ text_generator = load()
 st.title("Text generation application")
 enter_text = st.text_input("Enter the text in English", value="")
 length_text = st.slider("Text length", 10, 100, 30)
-iteration_text = st.slider("How many iterations", 1, 5, 1)
+iteration_text = st.slider("How many iterations", 1, 3, 1)
 
 
 def text_load(enter_text):
