@@ -1,5 +1,5 @@
 [![Tests](https://github.com/Stasvdovin/text_generator/actions/workflows/python-app.yml/badge.svg)](https://github.com/Stasvdovin/text_generator/actions/workflows/python-app.yml)
-Project "Text Generatin"
+### Project "Text Generatin"
 https://stasvdovin-text-generator-main-application-4v6b6n.streamlit.app/
 
 ## Content
