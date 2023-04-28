@@ -1,4 +1,5 @@
-Project "Text Generatin
+[![Tests](https://github.com/Stasvdovin/text_generator/actions/workflows/python-app.yml/badge.svg)](https://github.com/Stasvdovin/text_generator/actions/workflows/python-app.yml)
+Project "Text Generatin"
 https://stasvdovin-text-generator-main-application-4v6b6n.streamlit.app/
 
 ## Content
@@ -62,4 +63,5 @@ The model developers report that the model was evaluated on the following tasks 
 
 ### Results:
 The model achieves the following results without any fine-tuning (zero-shot)
+
 
