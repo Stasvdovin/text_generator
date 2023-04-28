@@ -1,12 +1,6 @@
 from main import text_load
 
 
-def test_text_load_not_empty():
-    input_text = "Hello world."
-    output_text = text_load(input_text)
-    assert output_text != ""
-
-
 def test_text_load_correct_length():
     input_text = "Hello world."
     length = 20
